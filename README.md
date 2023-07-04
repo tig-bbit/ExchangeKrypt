@@ -2,6 +2,9 @@
 
 The project is focused on creating a comprehensive Web 3.0 application that enables users to send transactions using blockchain technology. The application aims to provide a seamless and secure platform for users to initiate and process transactions on the blockchain. The project aims to leverage blockchain technology for transactional purposes, ensuring transparency and decentralization in transactions.
 
+![KryptExchange](https://github.com/JjuliSanz/KryptExchange/assets/100944753/2f0ac32b-10c7-492d-86c9-35c64ff24d39)
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
