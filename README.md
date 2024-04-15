@@ -4,7 +4,6 @@ The project is focused on creating a comprehensive Web 3.0 application that enab
 
 ![KryptExchange](https://github.com/JjuliSanz/KryptExchange/assets/100944753/2f0ac32b-10c7-492d-86c9-35c64ff24d39)
 
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -14,27 +13,34 @@ The project is focused on creating a comprehensive Web 3.0 application that enab
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
 ## Requirements For Initial Setup
+
 - Install [NodeJS](https://nodejs.org/en/)
 
 ## Setting Up
+
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
+
 `$ npm install`
 
 ### 3. Run tests
+
 `$ npx hardhat test`
 
 ### 4. Start Hardhat node
+
 `$ npx hardhat node`
 
 ### 5. Run deployment script
+
 In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
 ### 7. Start frontend
+
 `$ npm run start`
 
 ## Authors
 
-- [@JjuliSanz ](https://github.com/JjuliSanz)
+- [@J_son ](https://github.com/tig-bbit)
