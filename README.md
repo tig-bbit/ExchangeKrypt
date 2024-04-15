@@ -1,8 +1,8 @@
 # KRYPT Exchange
 
-The project is focused on creating a comprehensive Web 3.0 application that enables users to send transactions using blockchain technology. The application aims to provide a seamless and secure platform for users to initiate and process transactions on the blockchain. The project aims to leverage blockchain technology for transactional purposes, ensuring transparency and decentralization in transactions.
+The project is dedicated to developing a robust Web 3.0 application that empowers users to execute transactions using blockchain technology. The application's primary objective is to furnish a smooth and secure platform for users to initiate and manage transactions on the blockchain. The project seeks to harness blockchain technology to facilitate transactions, thereby ensuring transparency and decentralization in all transactional activities.
 
-![KryptExchange](https://github.com/JjuliSanz/KryptExchange/assets/100944753/2f0ac32b-10c7-492d-86c9-35c64ff24d39)
+![KryptExchange](https://github.com/tig-bbit/ExchangeKrypt/assets/100944753/2f0ac32b-10c7-492d-86c9-35c64ff24d39)
 
 ## Technology Stack & Tools
 
